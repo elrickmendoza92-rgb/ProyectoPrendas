@@ -9,6 +9,9 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
+		System.out.println("hola");
+		System.out.println("FELIZ INICIO DE SEMANA");
+		
 
 		Scanner lectura = null;
 		
